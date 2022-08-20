@@ -1,0 +1,22 @@
+{
+  "Record": {
+    "kartik": {
+      "Address": "rohtak",
+      "Id": "101",
+      "Name": "kartik",
+      "Password": "1234"
+    },
+    "pulkit": {
+      "Address": "sampla",
+      "Id": "102",
+      "Name": "pulkit",
+      "Password": "67898"
+    },
+    "vikki": {
+      "Address": "delhi",
+      "Id": "987",
+      "Name": "vikki",
+      "Password": "7770"
+    }
+  }
+}
